@@ -1,0 +1,20 @@
+chatbot/
+├── config/
+│   ├── __init__.py
+│   └── settings.py
+├── controllers/
+│   ├── __init__.py
+│   └── chat_controller.py
+├── models/
+│   ├── __init__.py
+│   ├── basic_response_model.py
+│   └── openai_model.py
+├── utils/
+│   ├── __init__.py
+│   └── text_processor.py
+├── views/
+│   ├── __init__.py
+│   └── chat_view.py
+├── .env
+├── main.py
+└── requirements.txt
