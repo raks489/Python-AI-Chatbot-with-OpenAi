@@ -16,3 +16,5 @@ controllers/: Manages the chat flow logic
 models/: Handles response generation (basic and AI-powered)
 utils/: Provides utility functions like text processing
 views/: Manages user interface and display
+
+# - Rahat Shaikh
